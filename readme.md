@@ -2,12 +2,12 @@
 
 ### About :
 This File Explorer works in two modes -<br/>
-**1. Normal mode (default mode) -** used to explore the current directory and navigate the filesystem
+**1. Normal mode (default mode) -** used to explore the current directory and navigate the filesystem<br/>
 **2. Command mode -** used to enter shell commands
 The root of application is the home directory of the system.<br/>
 The application displays data starting from the top-left corner of the terminal window, line-by-line. The last few lines of the display screen is used as a status bar.<br/>
 <p align="center">
-  <img src="./image/snapshot.png" width="350">
+  <img src="./image/snapshot.png">
 </p>
 
 ### Normal mode:
